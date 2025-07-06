@@ -19,13 +19,13 @@ Built using Python and Tkinter, with platform compatibility for **Windows, macOS
 
 ## 🖼️ Preview
 
-> ![screenshot](assets/Screenshot1.png)  
+> ![Screenshot1.png](Screenshot1.png)  
 
-> ![screenshot](assets/Screenshot2.png) 
+> ![screenshot](Screenshot2.png) 
 
-> ![screenshot](assets/Screenshot3.png) 
+> ![screenshot](Screenshot3.png) 
 
-> ![screenshot](assets/Screenshot4.png) 
+> ![screenshot](Screenshot4.png) 
 
 *Lightweight GUI with essential controls. Play audio directly from history tab.*
 
